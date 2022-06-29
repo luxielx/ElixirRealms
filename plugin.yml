@@ -1,0 +1,12 @@
+name: ElixirRealms
+main: SolarFavor.ElixirRealms.Main
+version: 2
+commands:
+    sv:
+        description: /rpg help for more shiet
+    hub:
+        description: /rpg help for more shiet
+    exreload:
+        description: /rpg help for more shiet
+
+

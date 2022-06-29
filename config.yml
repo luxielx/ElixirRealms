@@ -1,0 +1,19 @@
+## invLarge must be multiplier of 9 and less than 54 [ 54 max ] 
+invLarge: 27
+invName: '&cServer Selection'
+InvSlot:
+  '12':
+    Material: DIAMOND_SWORD
+    server: faction
+    Name: Server Faction
+    Lore:
+    - '&aBấm để vào Server Faction'
+    Glow: true
+  '14':
+    Material: DIAMOND_SWORD
+    server: lobby
+    Name: '&cSHIT2'
+    Lore:
+    - '&aBấm để vào Server SkyBlock'
+    Glow: true
+
